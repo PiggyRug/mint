@@ -1,6 +1,6 @@
 .mint
 {
-	margin: center;
+	margin: auto;
 	display: flex;
 	flex-direction: column;
 	justify-content: space-around;
